@@ -7,11 +7,14 @@ communicate.
 
 ## User Interface Design
 
-## Core Functions 
-Our columbia course recommendation system includes three microservices:
+## Three microservices:
+
 (1) Course Searching Microservice
+
 (2) Course Evaluation Microservice
+
 (3) Message Board Microservice
+
 ### Ambiguous Search
 Search avaiable courses by keywords (Name, CourseID, Lecturer, Tag). 
 
