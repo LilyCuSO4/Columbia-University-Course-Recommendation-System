@@ -7,19 +7,19 @@ communicate.
 
 ## User Interface Design
 
-## Three microservices:
+## Three microservices
 
-(1) Course Searching Microservice
+### Course Searching Microservice
 
-(2) Course Evaluation Microservice
-
-(3) Message Board Microservice
-
-### Ambiguous Search
+#### Ambiguous Search
 Search avaiable courses by keywords (Name, CourseID, Lecturer, Tag). 
 
-### Qualifying Search
+#### Qualifying Search
 Search avaiable courses by keywords and the constraint of registered course, course requirement and concentration.
+
+### Course Evaluation Microservice
+
+### Message Board Microservice
 
 ## Team Member
 
