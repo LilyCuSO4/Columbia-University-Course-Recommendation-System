@@ -1,11 +1,17 @@
 # Columbia Course Recommendation System
 
 ## Project Overview
-The full-stack project aims to provide a course recommendation system to students of Columbia University based on their previous course selection, track interests and program checklist. 
+The full-stack project aims to provide a course recommendation system to students of Columbia University based on their previous course selection, track interests and program checklist. The system could help students to schedule their courses more efficiently by solving any
+time conflicts problems and providing rates of professors and a message board for them to
+communicate.
 
 ## User Interface Design
 
 ## Core Functions 
+Our columbia course recommendation system includes three microservices:
+(1) Course Searching Microservice
+(2) Course Evaluation Microservice
+(3) Message Board Microservice
 ### Ambiguous Search
 Search avaiable courses by keywords (Name, CourseID, Lecturer, Tag). 
 
@@ -13,6 +19,8 @@ Search avaiable courses by keywords (Name, CourseID, Lecturer, Tag).
 Search avaiable courses by keywords and the constraint of registered course, course requirement and concentration.
 
 ## Team Member
+
+Yiting Dai yd2674@columbia.edu
 
 Xin Huang xh2510@columbia.edu
 
@@ -23,7 +31,5 @@ Jinxuan Tang jt3302@columbia.edu
 Chenhao Wang cw3355@columbia.edu
 
 Yuxian Chen yc3840@columbia.edu
-
-Yiting Dai yd2674@columbia.edu
 
 Haoran Wang hw2897@columbia.edu
